@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 494}
   m_MaxSize: {x: 18008, y: 14044}
   vertical: 0
-  controlID: 19393
+  controlID: 33613
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 436, y: 494}
   m_MaxSize: {x: 14006, y: 14044}
   vertical: 0
-  controlID: 19394
+  controlID: 33614
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -164,7 +164,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 444}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 19395
+  controlID: 33615
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -242,7 +242,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 494}
   m_MaxSize: {x: 10004, y: 14044}
   vertical: 1
-  controlID: 19345
+  controlID: 33573
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -359,9 +359,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -171.9104, y: 2417.4585, z: -138.16772}
+    m_Target: {x: -306.64883, y: 249.03896, z: -18.95869}
     speed: 2
-    m_Value: {x: -171.83777, y: 2417.435, z: -138.34836}
+    m_Value: {x: -306.76773, y: 248.91307, z: -19.016426}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -390,17 +390,17 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Target: {x: 0.343804, y: 0.6038808, z: -0.32318798, w: 0.64240086}
     speed: 2
-    m_Value: {x: 0.7071069, y: -0.000000014695722, z: 0.000000027961185, w: 0.7071067}
+    m_Value: {x: 0.34380355, y: 0.60388005, z: -0.32318756, w: 0.6424}
   m_Size:
-    m_Target: 71.6507
+    m_Target: 27.277285
     speed: 2
-    m_Value: 70.90617
+    m_Value: 27.77728
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_CameraSettings:
     m_Speed: 1
     m_SpeedNormalized: 0.49748743
@@ -557,10 +557,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 1815}
-      m_SelectedIDs: 4008ffff
-      m_LastClickedID: -63424
-      m_ExpandedIDs: 505fffff70fbffffa62e00009630000088320000fe330000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: 60300000
+      m_LastClickedID: 12384
+      m_ExpandedIDs: 2ee6feff2ee7feff70fbffff8c2f00009c350000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -623,7 +623,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models/Textures/Asfalto/Asphalt_002_SD/Materials
+    - Assets/Models/Textures/Materials
   m_ViewMode: 0
   m_StartGridSize: 64
   m_LastFolders: []
@@ -635,7 +635,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 122d0000
     m_LastClickedID: 11538
-    m_ExpandedIDs: ffffffff0000000096290000382a00007a2a0000842a0000c62b0000ca2b0000f62b00004c2c00004235000044350000
+    m_ExpandedIDs: ffffffff0000000096290000382a0000c62b0000f22b00005239000054390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -660,10 +660,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_AssetTreeState:
-    scrollPos: {x: 0, y: 16}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff0000000096290000382a00007a2a0000842a0000c62b0000ca2b0000f62b00004c2c00004235000044350000
+    m_ExpandedIDs: ffffffff0000000096290000ac290000382a0000802a0000c62b00005239000054390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
